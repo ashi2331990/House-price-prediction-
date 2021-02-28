@@ -4,7 +4,10 @@ This dataset was done in team of two
 2) Nikhil Rampuria 
 The data was collected from kaggle.com 
 Data had total 11 features including the target variable 
+
 ![image](https://user-images.githubusercontent.com/63114455/109431015-4896f580-7a2a-11eb-8df3-1ac3fbde9b15.png)
+
+
 The shape of the data was 
 (29451, 12)
 With no null values in the dataset 
@@ -20,7 +23,7 @@ Inference- variable shows that Maximum listings were made by the dealers>Builder
     ![image](https://user-images.githubusercontent.com/63114455/109431140-eab6dd80-7a2a-11eb-98d5-0233ff054c1d.png)
 Inference- Maximum flats listed are BHKs i.e 99.9% Rks are listed of 0.1%, BHK has higher median sale price value than RKs
 4) City
-<h4>Listing Count city wise</h4> 
+Listing Count city wise
 ![image](https://user-images.githubusercontent.com/63114455/109431197-4b461a80-7a2b-11eb-9a3c-b34ff8ea2778.png)
    
    
