@@ -303,3 +303,92 @@ From the scatter plot we can observe that due to the outliers the feature does n
 
 
 
+
+
+
+
+
+
+TARGET(PRICE_IN_LACS)
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/63114455/109431712-ecce6b80-7a2d-11eb-9538-a0c5fc882e6e.png)
+
+
+
+
+
+The variables are not normally distributed, including the target variable 'TARGET(PRICE_IN_LACS)'.
+To maximise performance of linear models, we need to account for non-Gaussian distributions.
+
+
+
+
+
+
+
+Transformation 
+
+
+![image](https://user-images.githubusercontent.com/63114455/109431745-0f608480-7a2e-11eb-9e62-252a1e062368.png)
+
+
+
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/63114455/109431751-17b8bf80-7a2e-11eb-8383-e0632cb908f9.png)
+
+
+
+
+
+
+
+
+
+
+
+Inference- from here we can observe that after the first log transformation the skewness has been considerably reduced but still the data skow high skewness and has outliers in it due to that linear relationship with the transformed target variable is still no a clear relationship 
+Performing the transformation once again to see if makes any difference
+
+
+
+
+
+
+
+
+
+
+
+Cardenal features 
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/63114455/109431777-361ebb00-7a2e-11eb-835c-a7ec6a62d2e4.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Final inference so selected features after EDA will be {'POSTED_BY', 'UNDER_CONSTRUCTION', 'RERA', 'BHK_NO.', 'BHK_OR_RK', 'SQUARE_FT', 'READY_TO_MOVE', 'RESALE', 'ADDRESS', 'TARGET(PRICE_IN_LACS)', 'City'} for further selection feature engineering and selection is needed 
+
