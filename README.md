@@ -76,3 +76,18 @@ Finding price per square ft in the area
 
 
 
+
+
+
+
+
+
+
+
+Finding relationships with RERA
+
+
+![image](https://user-images.githubusercontent.com/63114455/109431516-120eaa00-7a2d-11eb-859c-15a9cfb91923.png)
+
+
+
