@@ -52,9 +52,11 @@ Inference- variable shows that Maximum listings were made by the dealers>Builder
 Inference- Maximum flats listed are BHKs i.e 99.9% Rks are listed of 0.1%, BHK has higher median sale price value than RKs
 4) City
 Listing Count city wise
+
 ![image](https://user-images.githubusercontent.com/63114455/109431197-4b461a80-7a2b-11eb-9a3c-b34ff8ea2778.png)
    
    
-   Median Sale Price     
-   ![image](https://user-images.githubusercontent.com/63114455/109431235-716bba80-7a2b-11eb-9ce4-d034049ab156.png)
+Median Sale Price     
+   
+![image](https://user-images.githubusercontent.com/63114455/109431235-716bba80-7a2b-11eb-9ce4-d034049ab156.png)
  
