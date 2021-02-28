@@ -16,15 +16,6 @@ Data had total 11 features including the target variable
 
 
 
-
-
-
-
-
-
-
-
-
 The shape of the data was 
 (29451, 12)
 
