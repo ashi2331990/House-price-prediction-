@@ -392,3 +392,27 @@ Cardenal features
 
 Final inference so selected features after EDA will be {'POSTED_BY', 'UNDER_CONSTRUCTION', 'RERA', 'BHK_NO.', 'BHK_OR_RK', 'SQUARE_FT', 'READY_TO_MOVE', 'RESALE', 'ADDRESS', 'TARGET(PRICE_IN_LACS)', 'City'} for further selection feature engineering and selection is needed 
 
+
+
+
+
+
+
+
+
+
+
+The as the data was linear the model applied are 
+1) linear regression as base 
+2) Gradient boosting regressor
+3) Random Forrest regressor 
+4) XGB Regressor 
+
+The best Result was obtained by XGB 
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/63114455/109431906-cceb7780-7a2e-11eb-85b5-f5af2767e3a9.png)
