@@ -8,8 +8,22 @@ Data had total 11 features including the target variable
 ![image](https://user-images.githubusercontent.com/63114455/109431015-4896f580-7a2a-11eb-8df3-1ac3fbde9b15.png)
 
 
+
+
+
+
+
+
+
+
+
+
 The shape of the data was 
 (29451, 12)
+
+
+
+
 With no null values in the dataset 
 
 
