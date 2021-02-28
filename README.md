@@ -60,3 +60,12 @@ Median Sale Price
    
 ![image](https://user-images.githubusercontent.com/63114455/109431235-716bba80-7a2b-11eb-9ce4-d034049ab156.png)
  
+
+
+
+Finding price per square ft in the area
+![image](https://user-images.githubusercontent.com/63114455/109431486-e4296580-7a2c-11eb-8901-347846b0f22f.png)
+
+
+
+
