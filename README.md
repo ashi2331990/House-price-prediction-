@@ -29,6 +29,8 @@ With no null values in the dataset
 EDA:- 
 1)The address column had a very high cardenality 
   Top 15 address 
+
+
 ![image](https://user-images.githubusercontent.com/63114455/109431038-7da34800-7a2a-11eb-8655-a0c703290212.png)
   
   
@@ -37,7 +39,11 @@ EDA:-
  
  
  
- We observed that with specific address the data did not show much vriation with the target variable hence we converted the column to just city names and created a new variable     'city' and discarded the variable address 
+
+
+
+
+We observed that with specific address the data did not show much vriation with the target variable hence we converted the column to just city names and created a new variable     'city' and discarded the variable address 
 2) POSTED_BY
    ![image](https://user-images.githubusercontent.com/63114455/109431125-d5da4a00-7a2a-11eb-8639-6b4054e315cd.png)
 Inference- variable shows that Maximum listings were made by the dealers>Builders>Owners and Median prices goes in the range Dealer>Owner>Builder feature shows relation with the target variable and shows predictive nature
