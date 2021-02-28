@@ -11,6 +11,9 @@ Data had total 11 features including the target variable
 The shape of the data was 
 (29451, 12)
 With no null values in the dataset 
+
+
+
 EDA:- 
 1)The address column had a very high cardenality 
   Top 15 address 
